@@ -1,0 +1,5 @@
+# Object-oriented applications are defined by the messages that pass between objects. This message passing takes place 
+# along “public” interfaces; well-defined public inter- faces consist of stable methods that expose the responsibilities # of their underlying classes and provide maximal benefit at minimal cost.
+# Focusing on messages reveals objects that might otherwise be overlooked. When messages are trusting and ask for what  
+# the sender wants instead of telling the receiver how to behave, objects naturally evolve public interfaces that are  
+# flexible and reusable in novel and unexpected ways.
